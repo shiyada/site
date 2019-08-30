@@ -52,8 +52,9 @@ html body {
 }
 .about-div{
   height:73vw;
-  width: 100%;
-  background-color: #080b01ed;
+  width: 90%;
+  background-color: #000000;
+  padding-bottom: 5vw;
 }
 .about-tex{
   font-family: Lexend Deca;
@@ -62,9 +63,9 @@ html body {
 }
 .photo{
   float: right;
-  margin-right: 10%;
-  width: 70px;
-  height: 90px;
+  margin-left: 40%;
+  width: 150px;
+  height: 180px;
   margin-top: 10PX;
   border-radius: 25px 25px;
   background-repeat: no-repeat;
@@ -76,8 +77,10 @@ html body {
   border-radius:20px;
 }
 .about-me{
-  padding: 50px;
-  width: 100%;
+  padding-left: 50px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  width: 90%;
   height: 100%
 
 }
@@ -171,5 +174,5 @@ tr {
 .expabout-div{
   height:40vw;
   width: 100%;
-  background-color: #080b01ed;
+  background-color: #000000;
 }
