@@ -24,8 +24,8 @@ body, html {
 }
 
 .profile {
-    width: 120%;
-    height: 380px;
+    width: 100%;
+    height: 300px;
 }
 
 .profile img {
